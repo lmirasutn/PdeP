@@ -53,7 +53,7 @@ maestro(Alguien, Otro),
 Uno \= Otro.
 ```
 Por otro lado, en este predicado, digo que **Alguien** es **groso** si tiene por lo menos, dos **alumnos**.
-* Como dijimos antes, para el 'o' podemos crear varias sentencias, cuando necesitamos varias condiciones a la vez ('y'), tenemos que separarlas con coma, como en este caso.
+* Como dijimos antes, para el 'o' podemos crear varias sentencias. En cambio cuando necesitamos varias condiciones a la vez ('y'), tenemos que separarlas con coma, como en este caso.
 * Entonces, **Alguien** es **groso** si es maestro de **Uno**, es maestro de **Otro** y **Uno** es distinto de **Otro**.
 
 ## Consulta individual
